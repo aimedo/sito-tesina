@@ -39,14 +39,14 @@ body.menu-show {
 }
 
 a {
-  color: #539DDB;
+  color: #FFFFFF ;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: underline;
-  color: #539DDB;
+  color: #FFFFFF;
 }
 a:focus, a:active {
   outline: none;
@@ -283,21 +283,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-  background: #539DDB;
+  background: #f78800;
   color: #fff;
-  border: 2px solid #539DDB;
+  border: 2px solid #f78800;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #68a9df !important;
-  border-color: #68a9df !important;
+  background: #f78800 !important;
+  border-color: #f78800 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #539DDB;
-  border: 2px solid #539DDB;
+  color: #f78800;
+  border: 2px solid #f78800;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #539DDB;
+  background: #f78800;
   color: #fff !important;
 }
 
@@ -321,21 +321,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-info {
-  background: #5bc0de;
+  background: #f78800;
   color: #fff;
-  border: 2px solid #5bc0de;
+  border: 2px solid #f78800;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active {
-  background: #46b8da !important;
-  border-color: #46b8da !important;
+  background: #f78800 !important;
+  border-color: #f78800 !important;
 }
 .btn-info.btn-outline {
   background: transparent;
-  color: #5bc0de;
-  border: 2px solid #5bc0de;
+  color: #f78800;
+  border: 2px solid #f78800;
 }
 .btn-info.btn-outline:hover, .btn-info.btn-outline:focus, .btn-info.btn-outline:active {
-  background: #5bc0de;
+  background: #f78800;
   color: #fff;
 }
 
@@ -1027,7 +1027,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-blog .blog-text span.comment a i {
-  color: #539DDB;
+  color: #f78800;
   padding-left: 7px;
 }
 .fh5co-blog .blog-text span.posted_on {
@@ -1168,7 +1168,7 @@ input[type="text"] {
 }
 #footer a:hover, #footer a:focus {
   text-decoration: none;
-  color: #539DDB;
+  color: #f78800;
 }
 #footer .form-inline .form-group {
   width: 100% !important;
@@ -1192,7 +1192,7 @@ input[type="text"] {
   right: 10px;
   border-top-left-radius: 0px !important;
   border-bottom-left-radius: 0px !important;
-  background: #539DDB;
+  background: #f78800;
   border: none;
 }
 #footer #fh5co-header-subscribe button i {
